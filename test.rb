@@ -8,3 +8,5 @@ comment in ruby
 puts "Hello world"
 p "Hello world
 with line break"
+
+5.times { p "This is repeated welcome messages" }
