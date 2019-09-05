@@ -11,3 +11,7 @@ with line break"
 5.times { p "This is repeated welcome messages" }
 
 #Testing for revert
+
+#Testing for mixed reset
+
+#Changes 1

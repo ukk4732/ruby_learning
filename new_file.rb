@@ -10,3 +10,7 @@ puts "Hello #{name}..!! You are #{age} years old."
 # Added another line
 
 #Testing for revet new file
+
+#Testing for the mixed reset
+
+#Changes 1
