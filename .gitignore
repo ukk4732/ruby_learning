@@ -1,0 +1,4 @@
+temp1.txt
+*.txt
+!umesh.txt
+temp/
