@@ -9,3 +9,7 @@ end
   blog = Blog.last
   blog.published?  
 =end
+
+=begin 
+  override commit
+=end
