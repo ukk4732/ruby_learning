@@ -1,5 +1,5 @@
 # enum example
-
+#This is my method
 class MyEnum
   enum status: {draft: 0, published: 1}
 end
