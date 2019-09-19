@@ -16,8 +16,8 @@ end
 =end
 
 #This is my comments
-# Ruby
-# Rails 
+# Ruby 2.5
+# Rails 5.2
 # Java
 # Hindi
 # English
