@@ -26,4 +26,6 @@ end
 
 # New list
 # CSS
-# HTML 
+# HTML
+# JS
+# React 
