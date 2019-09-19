@@ -14,3 +14,8 @@ end
   Blog.create!(title: "Test blog", body: "Test bodyssss")
   override commit
 =end
+
+#This is my comments
+# Ruby
+# Rails 
+# Java
