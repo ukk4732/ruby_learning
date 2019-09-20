@@ -2,7 +2,7 @@
 
 #Print two using downto method
 
-5.downto(-5) { |n| puts "Hello Rails: #{n}" }
+5.downto(-5) { |n| puts "Hello world: #{n}" }
 
 # Changes in master branch before rebase
 
@@ -16,3 +16,9 @@
 # 1- Techracers
 # 2- Gammastack
 # 3- Bestpeers
+
+# Added Technology
+
+# 1- ROR
+# 2- React
+# 3- JS
